@@ -44,21 +44,21 @@ As tecnologias usadas nesse projeto.
 ## Overview : )
 
 ### 1 - Start page 
--- Autorize a pagina a saber a sua localização
+- Autorize a pagina a saber a sua localização
 
 ![Start Page](https://raw.githubusercontent.com/rasta-slaine/DncWeather/main/assets/git/img/img-1.png)
 
 ### 2 - Midle Page
--- Ao autorizar, irá preecnher a latitude e a longitude automaticamente
+- Ao autorizar, irá preecnher a latitude e a longitude automaticamente
 
 ![Midle Page](https://raw.githubusercontent.com/rasta-slaine/DncWeather/main/assets/git/img/img-2.png)
 
 ### 3 - Form
--- Prencha o formulário, e clique no botão
+- Prencha o formulário, e clique no botão
 ![Form](https://raw.githubusercontent.com/rasta-slaine/DncWeather/main/assets/git/img/img-3.png)
 
 ### 4 - Results
--- Em seguida os dados da sua localizão e o clima irão aparecer
+- Em seguida os dados da sua localizão e o clima irão aparecer
 ![results](https://raw.githubusercontent.com/rasta-slaine/DncWeather/main/assets/git/img/img-4.png)
 
 
