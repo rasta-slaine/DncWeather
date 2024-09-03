@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+/*
+*{
+    background: rgba(242, 242, 242, 1);
+    
+}
+*/
+.bg-blue{
+    background-color:rgba(12, 112, 242, 1)
+}
+
+
+.text-title {
+    font-family: "Inter", sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+.text-title-2{
+    font-family: "Inter", sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+.text-title-3{
+    font-family: "Inter", sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    color: rgba(31, 31, 31, 1);
+
+}
+
+.text-title-4{
+    font-family: "Inter", sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    color: rgba(31, 31, 31, 1);
+
+}
+
+/*
+*/
+.form-card{
+    background: rgba(255, 255, 255, 1);
+    border: none;
+    border-radius: 10px;
+}
+
+form label {
+    font-family: "Inter", sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 1);
+}
+
+form .custom-input {
+    background-color:  rgba(242, 242, 242, 0.9); /* Altere para a cor que preferir */
+  
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+
+.contaiiner-blue{
+    border:none ;
+    border-radius: 10px 10px 0px 0px;
+    background: rgba(12, 112, 242, 1);
+    color:white;
+}
+
+.contaiiner-blue span{
+    color:rgba(12, 112, 242, 1) ;
+}
+
+
+.contaiiner-white{
+    border: none;
+    border-radius: 0px 0px 10px 10px;
+    background: rgba(255, 255, 255, 1)
+}
+
+.contaiiner-white span {
+    color:rgba(255, 255, 255, 1) ;
+}
+
+
+
+.contaiiner-white-2{
+    border: none;
+    border-radius: 10px 10px 10px 10px;
+    background: rgba(255, 255, 255, 1)
+}
+
+.contaiiner-white-2 p {
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    color: rgba(31, 31, 31, 1);
+}
+
+footer {
+    font-family: "Inter", sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 1);
+
+
+}
