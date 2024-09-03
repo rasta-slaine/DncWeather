@@ -36,7 +36,7 @@ As tecnologias usadas nesse projeto.
 
 
 ## Links
-- [Site](https://landingpagearquiteturanathan.netlify.app/)
+- [Site](https://dncweathernathan.netlify.app/)
 - [ApiCep](https://viacep.com.br/)
 - [ApiWeather](https://open-meteo.com/en/docs/)
 
